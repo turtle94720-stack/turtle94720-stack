@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Adrian</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Everyone! I'm William/h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
