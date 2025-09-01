@@ -1,6 +1,8 @@
+<div>
 <div align="center">
 	<h2>Hello. I'm Boris! 🦇</h2>
 	<p><code>30y old, Senior Software Engineer </code><br>Working everyday to be better</p>
+	</div>
 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
