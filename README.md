@@ -3,7 +3,7 @@
 	<h2>Hello. I'm Boris! 🦇</h2>
 	<p><code>30y old, Senior Software Engineer </code><br>Working everyday to be better</p>
 	</div>
-👨🏻‍💻 &nbsp;About Me
+<h1>👨🏻‍💻 &nbsp;About Me </h1>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Bussiness and Computer Security Now.\
