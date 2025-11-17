@@ -1,7 +1,7 @@
 <div>
 <div align="center">
 	<h2>Hello! </h2>
-	<p><code>31y old, Senior Software Engineer </code><br>Working everyday to be better</p>
+	<p><code> Senior Software Engineer </code><br>Working everyday to be better</p>
 	</div>
 <h1>👨🏻‍💻 &nbsp;About Me </h1>
 
