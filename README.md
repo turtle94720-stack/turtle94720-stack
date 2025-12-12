@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Bussiness and Computer Security Now.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I play tennis and swim as hobbies.\
+✍️ &nbsp;In my free time, I like to play tennis and swim as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 	<p align="center">
  <h1> My Skills <h1/>
